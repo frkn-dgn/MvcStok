@@ -3,5 +3,8 @@
 bin/
 obj/
 packages/
+packages.config
 *.user
-
+Web.Debug.config
+Web.Release.config
+favicon.ico
